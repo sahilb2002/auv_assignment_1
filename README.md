@@ -6,7 +6,7 @@ The code is in **work/src/demo_bot_gazebo** folder
 
 **Screen shot-**
 
-<img src="assing_1/auv_assign_1.png">
+<img src="auv_assign_1.png">
 
 **Screen recording-**
 
